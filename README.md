@@ -27,7 +27,7 @@ The <a href="#fontExplorerX">professional designer font workflow</a> is FontExpl
 The <a href="#fontExplorerX">studio and team font management</a> organizes shared font libraries across team members — ensuring everyone on the studio has access to the same fonts for the same projects, synchronizing font sets for collaborative document production. <a href="#fontExplorerX">Font purchase and licensing tracking</a> records where fonts were purchased, licensing terms, and usage rights — the organizational infrastructure for font library compliance.</p>
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/330048/m/fontexplorer-x-pro-screenshot.png?v=1646234771" alt="FontExplorer X screenshot"/>
+  <img src="https://macx.ws/uploads/posts/2017-10/1507389339_fontexplorer_01.jpg" alt="FontExplorer X screenshot"/>
 </p>
 
 <a href="#fontExplorerX">Font import and library building</a> imports fonts from any location on the Mac or network, organizing them into the FontExplorer X library without requiring the fonts to live in the system Fonts folder — keeping licensed fonts organized and managed through FontExplorer X rather than scattered across the file system. <a href="#fontExplorerX">System font management</a> handles macOS system fonts alongside user-installed fonts — providing visibility into which fonts are system-provided versus user-installed.
