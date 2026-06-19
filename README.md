@@ -59,7 +59,7 @@ The <a href="#fontExplorerX">studio and team font management</a> organizes share
 ---
 
 <p align="center">
-  <img src="https://macx.ws/uploads/posts/2017-10/1507389339_fontexplorer_01.jpg" alt="FontExplorer X screenshot 2"/>
+  <img src="https://i.ytimg.com/vi/JXKcqVyeyuA/maxresdefault.jpg" alt="FontExplorer X screenshot 2"/>
 </p>
 
 ## 🏢 Where It's Useful & Additional Information
